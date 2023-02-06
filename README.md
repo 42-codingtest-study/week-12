@@ -52,7 +52,7 @@ git checkout -b chanwoong // 자신의 이름
 - [소수 쌍](https://www.acmicpc.net/problem/1017)
 - [산업 스파이의 편지](https://www.acmicpc.net/problem/3671)
 - [GCD 곱](https://www.acmicpc.net/problem/14860)
-- [마법의 구슬](https://www.acmicpc.net/problem/1065)
+- [마법의 구슬](https://www.acmicpc.net/problem/1095)
 
 ## 🧐 bonus part
 
