@@ -18,7 +18,7 @@ import java.util.StringTokenizer;
  * 2. 나누어진 수의 1제곱 ~ 이 몇개 있는지 확인한다
  *
  */
-public class Main {
+public class BOJ07806 {
 
     public void solution() throws IOException{
 
@@ -60,6 +60,6 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException{
-        new Main().solution();
+        new BOJ07806().solution();
     }
 }
