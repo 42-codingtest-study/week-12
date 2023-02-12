@@ -9,11 +9,11 @@
 
 - [x] [소수 부분 문자열](https://www.acmicpc.net/problem/5636)
 - [x] [소수 화폐](https://www.acmicpc.net/problem/16400)
-- [ ] [자연수 색칠하기](https://www.acmicpc.net/problem/23048)
+- [x] [자연수 색칠하기](https://www.acmicpc.net/problem/23048)
 - [x] [GCD!](https://www.acmicpc.net/problem/7806)
 - [ ] [소수 쌍](https://www.acmicpc.net/problem/1017)
-- [ ] [산업 스파이의 편지](https://www.acmicpc.net/problem/3671)
-- [ ] [GCD 곱](https://www.acmicpc.net/problem/14860)
+- [X] [산업 스파이의 편지](https://www.acmicpc.net/problem/3671)
+- [x] [GCD 곱](https://www.acmicpc.net/problem/14860)
 - [ ] [마법의 구슬](https://www.acmicpc.net/problem/1095)
 
 ## 🧐 bonus part
